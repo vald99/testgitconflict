@@ -1,2 +1,2 @@
 # Status
-Just getting started.
+Working through the branches. Slightly confused but getting there.
